@@ -7,14 +7,14 @@ theme: charlolamode
 
 menu:
     main:
-        - name: Contact
-          url: /contact/
+        - name: Contacte
+          url: /contacte/
           weight: 30
-        - name: Articles
-          url: /articles/
-          weight: 20
-        - name: Projects
-          url: /projects/
+        - name: Projectes
+          url: /projectes/
+          weight: 15
+        - name: Sobre mi
+          url: /sobre-mi/
           weight: 15
 
      # - name: Categories
@@ -27,7 +27,7 @@ menu:
 
 
 params:
-    author: Author's Name
+    author: Max Freixa Sureda
 
 
     defaultTheme: auto
@@ -42,31 +42,21 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Joe Doe
+        title: Max Freixa
         description: |
 
-          Hello, I am Joe.
-           I am a software developer. 
-        
-
-          This is a minimalistic theme template for websites.
+          Hola, sóc Max Freixa. Em dedico al desenvolupament d'aplicacions web. En aquesta pàgina trobaràs informació sobre la meva experiencia laboral i els meus projectes desenvolupats.
         imageUrl: "/images/profile.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
-        buttons:
-            - name: Don't click me
-              url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
     mainSections:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
-        - name: github
-          url: "https://github.com/charlola"
+
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/max-freixa-sureda/"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
