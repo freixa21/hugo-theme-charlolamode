@@ -5,7 +5,7 @@ description:  Creació d'una aplicació web per dividir despeses entre un grup d
 type: page
 topic: project
 link: "https://git.copernic.cat/algarra.delgado.alejandro/GExpenses_3p1"
-image: "/images/gexpenses.png"
+image: "/quickstart/images/gexpenses.png"
 ---
 
 
