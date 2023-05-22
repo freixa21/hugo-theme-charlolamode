@@ -1,4 +1,4 @@
-baseURL: https://maxfreixa.gitlab.io/portfolio/ # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: https://freixa21.github.io/quickstart/ # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: charlola.mode
 paginate: 5
 theme: charlolamode
@@ -8,13 +8,13 @@ theme: charlolamode
 menu:
     main:
         - name: Contacte
-          url: /contacte/
+          url: /quickstart/contacte/
           weight: 30
         - name: Projectes
-          url: /projectes/
+          url: /quickstart/projectes/
           weight: 15
         - name: Sobre mi
-          url: /sobre-mi/
+          url: /quickstart/sobre-mi/
           weight: 15
 
      # - name: Categories
@@ -46,7 +46,7 @@ params:
         description: |
 
           Hola, sóc Max Freixa. Em dedico al desenvolupament d'aplicacions web. En aquesta pàgina trobaràs informació sobre la meva experiencia laboral i els meus projectes desenvolupats.
-        imageUrl: "/images/profile.png"
+        imageUrl: "/quickstart/images/profile.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
